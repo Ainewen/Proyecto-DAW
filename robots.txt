@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /tienda
+
+Sitemap: http://example.com/ubicacion_sitemap.xml
